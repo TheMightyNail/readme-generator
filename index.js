@@ -87,7 +87,7 @@ const questions = () => {
             type: 'checkbox',
             name: 'license',
             message: 'What license does this project have?',
-            choices: ['Apache-2.0', 'BSD-3-Clause', 'BSD-2-Clause', 'GPL', 'MIT', 'MPL-2.0', 'CDDL-1.0', 'EPL-2.0']
+            choices: ['Apache-2.0', 'BSD-3-Clause', 'BSD-2-Clause', 'GPL', 'MIT', 'MPL-2.0', 'CDDL-1.0', 'EPL-2.0', 'N/A']
         },
         {
             type: 'input',
